@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/syed-nayeem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://syednayeemrecruiter.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://syednayeemrecruiter.github.io/portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:syednayeem.work@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
