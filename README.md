@@ -39,7 +39,7 @@ Recruitment is not a transaction—it is a two-way partnership built on transpar
 * **Technical & Domain Focus:** Software Engineering (Full Stack, Backend, Frontend), Cloud/DevOps, Data, and Core Infrastructure.
 * **Modern Sourcing Architecture:** Advanced Boolean algorithms, X-Ray search, competitor talent mapping, and passive candidate engagement via LinkedIn Recruiter, Dice, Monster, Indeed, CareerBuilder, Naukri.com, and Naukrigulf Knowledge.
 * **AI-Accelerated Workflows:** Leveraging Generative AI (ChatGPT, Copilot, Gemini, Claude) to reverse-engineer niche job specs, calibrate candidate matching rubrics, and automate high-conversion outbound messaging.
-* **Systems Proficiency:** Hands-on expertise with ATS/VMS ecosystems including CEIPAL, VNDLY, and Beeline.
+* **Systems Proficiency:** Hands-on expertise with ATS/VMS ecosystems including CEIPAL, Amoeba ATS, VNDLY, and Beeline.
 
 ---
 
