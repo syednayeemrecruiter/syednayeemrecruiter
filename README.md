@@ -48,7 +48,7 @@ Recruitment is not a transaction—it is a two-way partnership built on transpar
 | Area | Platforms & Technologies |
 | :--- | :--- |
 | **Sourcing & Talent Discovery** | `LinkedIn Recruiter` `Dice` `Monster` `CareerBuilder` `Naukri.com` `Indeed` `Boolean Search` `X-Ray Search` `Talent Mapping` |
-| **ATS / VMS Systems** | `CEIPAL` `VNDLY` `Beeline` |
+| **ATS / VMS Systems** | `CEIPAL` `VNDLY` `Amoeba ATS` `Beeline` |
 | **AI & Automation** | `Microsoft Copilot` `ChatGPT` `Google Gemini` `Claude` *(Prompt Engineering for TA)* |
 | **Operations & Productivity** | `MS Excel (Advanced Reporting)` `Microsoft 365` `Microsoft Teams` `Skype` |
 
